@@ -1,0 +1,3 @@
+﻿  Test3.cpp
+C:\Users\Adikson\Desktop\KolokwiumNR2\Test3\Test3\Test3.cpp(168,36): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Test3.vcxproj -> C:\Users\Adikson\Desktop\KolokwiumNR2\Test3\x64\Debug\Test3.exe
