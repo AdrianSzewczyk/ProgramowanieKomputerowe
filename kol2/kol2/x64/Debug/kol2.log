@@ -1,0 +1,6 @@
+﻿  Funkcje.cpp
+  Funkcje.h
+  kol2.cpp
+  Generowanie kodu...
+x64\Debug\Funkcje.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+  kol2.vcxproj -> C:\Users\Adikson\Desktop\KolokwiumNR2\kol2\x64\Debug\kol2.exe
